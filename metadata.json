@@ -1,0 +1,5 @@
+{
+  "name": "快速掌握 AI 刷题神器",
+  "description": "一款现代化的AI辅助学习应用。导入题目或让Gemini AI根据文本或主题生成题目。支持互动闪卡、全真模拟考试、错题本及AI即时解析。",
+  "requestFramePermissions": []
+}

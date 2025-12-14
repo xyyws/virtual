@@ -1,0 +1,16 @@
+{
+  "short_name": "FlashMaster",
+  "name": "FlashMaster AI 刷题神器",
+  "description": "AI 驱动的智能刷题应用，支持全真模拟与错题复习。",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/616/616490.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f8fafc",
+  "background_color": "#f8fafc"
+}
